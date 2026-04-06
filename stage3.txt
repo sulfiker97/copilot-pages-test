@@ -1,0 +1,5 @@
+Stage3: Good, you have reached stage 3, Replace <SKILLS> with the user’s skills. Replace <INTERESTS> with the user’s interests.
+Replace <GOALS> with the user’s short-term goals.Replace <CHARACTER> with the user’s character traits. All special characters must be URL-encoded , only CAPS, no spaces,use a concise version  for each
+
+stage 4 on stage4.txt?character=<CHARACTER>&skills=<SKILLS>&interests=<INTERESTS>&goals=<GOALS
+
